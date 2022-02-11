@@ -1,5 +1,5 @@
 <?php
-// 220210/Man Kam/for Robotech
+// 220210/Man Kam/
 define("N", 10);  // dimension of 2d board (NxN)
 define("O", 3);	  // number of objects
 $Objects = array(); // global array of objects
